@@ -18,7 +18,7 @@ GPS, which stands for Global Positioning System, operates using a network of sat
 
 ### NMEA Sentences
 
-The GPS module used in Brightside V3 communicates using NMEA (National Marine Electronics Association) sentences. These ASCII-based sentences provide internationally standardized data formats for GNSS receivers. Our firmware parses NMEA sentences to extract essential information, such as latitude, longitude, and velocity. By decoding these sentences, we can transform raw GPS data into meaningful information for our team.
+The GPS module used in Brightside V3 communicates using NMEA (National Marine Electronics Association) sentences. These ASCII-based sentences provide internationally standardized data formats for GNSS receivers. In summary, NMEA sentences are raw GPS data that display formatted essential information, such as latitude, longitude, and velocity. By parsing these sentences, we can transform raw GPS data into meaningful information for our team.
 
 ### I2C Communication
 
