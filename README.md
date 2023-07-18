@@ -1,6 +1,6 @@
 # UBC Solar GPS Firmware - Brightside 
 
-This project is designed to use GPS technology to provide precise positioning, velocity, time information, etc. that are essential for efficient navigation and data analysis during competition and testing. The firmware will be integrated with Sunlink, UBC Solar's telemetry system.
+This project is designed to use GPS technology to provide precise positioning, velocity, time information, etc. that are essential for efficient navigation and data analysis during competition and testing. The firmware will be integrated with Sunlink, UBC Solar's telemetry system for analyzing vehicle data.
 
 ![GNSS_front](https://github.com/DiegoArmstrong/GPS-Firmware/assets/74511707/58fa7d6a-aa2b-4945-8e1a-1dd1c97b2ddd)
 ![GNSS_back](https://github.com/DiegoArmstrong/GPS-Firmware/assets/74511707/0d5142d2-1b39-4cae-b55a-1a5bbd6c8bcd)
