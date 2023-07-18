@@ -31,7 +31,7 @@ To interface with the GPS module, we utilize the Inter-Integrated Circuit (I2C) 
 #### Hardware
 
 * MAX-M10S GNSS receiver by Sparkfun
-* L1 or L2 GPS antenna (preferably L1 as this is the North-American Standard)
+* L1 or L2 GPS antenna (1-2 Ghz Frequency) (preferably L1 as this is the North-American Standard)
 * STM32 Microcontroller
 
 #### Software
